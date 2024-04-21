@@ -10,6 +10,9 @@
 - pytorch==1.9.0
 - matplotlib==3.3.4
 
+## Report
+Read the results from my study [here](LunarLanderSolutionReport.pdf)!
+
 ## Repository Contents:
 - main.py:
    - Main script to train and the data on new test sets
