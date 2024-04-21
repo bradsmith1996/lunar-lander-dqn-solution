@@ -2,6 +2,7 @@
 - Title: Lunar Lander Reinforcement Learning
 - Author: Peter Bradley "Brad" Smith
 - Date: 7/1/2021
+- Implementation Timeframe: 2 weeks
 
 ## Repository Reqiurements (or use `environment.yml` with conda):
 - numpy==1.18.0
