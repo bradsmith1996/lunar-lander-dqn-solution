@@ -1,0 +1,12 @@
+name: gym_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - gym==0.17.2
+  - pybox2d (for extended LunarLander-v2)
+  - pytorch==1.9.0
+  - matplotlib==3.3.4
+
+# NOTE: For installing: conda env create -f environment.yml
+# NOTE: For reinstalling: conda env update --file environment.yml  --prune
